@@ -17,7 +17,7 @@
         <h2>this is heading 2</h2>
         <p><abbr title = 'Science. Technology. Engineering. Art. Math.'>STEAM is real hot.</abbr></p>
         <h3> heading 3</h3> 
-            <a href='endless.horse'>a <em>really</em> long horse</a>
+            <a href='(http://endless.horse/)'>a <em>really</em> long horse</a>
         <h4> heading 4</h4>
         <h5>heading 5</h5>
         <h6>heading six</h6>
