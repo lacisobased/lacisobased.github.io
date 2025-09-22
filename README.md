@@ -15,6 +15,6 @@
             you do breaks with '<br />'
         <p> this is another paragraph</p>
         <hr />
-        <p>the thing <sup> above</sup>is called a <sub> horizontal rule</sub></p>
+        <p>the thing <sup> above </sup>is called a <sub> horizontal rule</sub></p>
     </body>
 </html>
